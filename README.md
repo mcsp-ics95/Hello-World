@@ -1,5 +1,7 @@
 # Hello-World
-A trial repository
+This is a trial repository
 
-I reprogram cantatas.  Try to figure that one out!
-Adding one more line just to practice a bit more... hopefully without creating conflicts.
+I am Margarita C. S. Paterno and i rePrograM CantataS. (Ha! Try figuring out that one!)
+I am a member of the faculty of the Institute of Computer Science at UP Los Banos.
+
+That's all for now.
